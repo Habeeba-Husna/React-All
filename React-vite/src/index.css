@@ -1,0 +1,20 @@
+body{
+    background: #00b09b;
+    min-height:100vh;
+    padding: 20px 20px 20px;
+}
+.text-gray {
+    color: #aaa;
+}
+/* .button{
+    background-color: brown;
+    color: white;
+    padding: 30px 30px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+} */
+.student {
+     border: 1px solid black;
+     padding: 10px ;
+}
